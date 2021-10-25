@@ -3,6 +3,5 @@
     Welcome                [welcome.html]
     Biography                [bio.html]
     Group                  [group.html]
-    Publications [publications.html]
 	
 
