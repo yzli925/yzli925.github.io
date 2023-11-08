@@ -7,18 +7,43 @@
 
 . *Y. Li*, L. Shi, P. Cheng, J. Chen and D. E. Quevedo, /A Game-theoretic Approach to Jamming Attacks on Remote State Estimation in Cyber-Physical Systems/, Cyber Security for Industrial Control Systems: From the Viewpoint of Close-loop (Cheng et al. (Ed.)), CRC Press, 2016.
 
-== Selected Journal Papers 
-. *Y. Li*, D. Shi, T. Chen, "Secure Analysis of Dynamic Networks under Pinning Attacks against Synchronization," */Automatica/*, Volume 111, January 2020.
-. *Y. Li*, A.S. Mehr, T. Chen, "Multi-Sensor Transmission Power Control for Remote Estimation through a SINR-based Communication Channel," */Automatica/*, Volume 101, Pages 78-86, March 2019.
-. *Y. Li*, J. Wu, T. Chen, "Transmit Power Control and Distributed State Estimation with Sensor Networks: A Bayesian Inference Approach," */Automatica/*, Volume 97, Pages 292-300, November 2018.
-. *Y. Li*, D. Shi, T. Chen, "False Data Injection Attacks on Networked Control Systems: A Stackelberg-Game Analysis," */IEEE Transactions on Automatic Control/*, Volume 63, Issue 10, Pages 3503-3509, October 2018.
-. *Y. Li*, L. Shi and T. Chen, "Detection Against Linear Deception Attacks on Multi-sensor Remote State Estimation," */IEEE Transactions on Control of Network Systems/*, Volume 5, Issue 3, Pages 846-856, September 2018. 
-. *Y. Li*, D. E. Quevedo, S. Dey and L. Shi, "SINR-based DoS Attack on Remote State Estimation: A Game-theoretic Approach," */IEEE Transactions on Control of Network Systems/*, Volume 4, Issue 3, Pages 632-642, September 2017. 
-. *Y. Li*, D. E. Quevedo, S. Dey and L. Shi, "A Game-theoretic Approach to Fake-Acknowledgment Attack on Cyber-Physical Systems," */IEEE Transactions on Signal and Information Processing over Networks/*, Volume 3, Issue 1, Pages 1-11, March 2017. 
-. *Y. Li*, F. Zhang, D. E. Quevedo, V. Lau, S. Dey and L. Shi, "Power Control of an Energy Harvesting Sensor for Remote State Estimation," */IEEE Transactions on Automatic Control/*, Volume 62, Issue 1, Pages 277-290, January 2017. 
-. *Y. Li*, L. Shi, P. Cheng, J. Chen and D. E. Quevedo, "Jamming Attacks on Remote State Estimation in Cyber-Physical Systems: A Game-Theoretic Approach," */IEEE Transactions on Automatic Control/*, Volume 60, Issue 10, Pages 2831-2836, October 2015.
-. *Y. Li*, D. E. Quevedo, V. Lau and L. Shi, "Optimal Periodic Transmission Power Schedules for Remote Estimation of ARMA Processes," */IEEE Transactions on Signal Processing/*, Volume 61, Issue 24, Pages 6164-6174, December 2013. 
-
+== Selected Journal Papers | 代表性论文 
+. Y. Yang, *Y. Li\**, Y. Shi, D. E. Quevedo, "The Vulnerability Analysis of Remote Estimation
+with Batch-Data Detectors against Integrity Attacks, " */IEEE Transactions on Automatic Control/*, 2023. (Full Paper)
+. H. Liu, Y. Zhang, *Y. Li*, B. Niu, "Proactive attack detection scheme based on watermarking
+and moving target defense, " */Automatica/*, 2023. (Regular Paper)
+. H. Xu, Y. Yang, J. Shang, J. Fu, *Y. Li\**, "Integrity Attacks on Remote Estimation with Spatial-
+Temporal Information Sources," */Automatica/*, 2023. (Regular Paper)
+. H. Liu, *Y. Li\**, Q. Han, T. Raissi, T. Chai, "Secure estimation, attack isolation and reconstruction
+based on zonotopic unknown input observer, " */IEEE Transactions on Automatic Control/*, 2023. (Full Paper)
+. *Y. Li*, R. Chen, T. Chai, "Spatiotemporal Learning-Based Stochastic MPC with Applications
+in Aero-engine Control," */Automatica/*, 2023.
+. Z. Zhao, Y. Xu, Z. Zhen, *Y. Li*, Y. Yang, Y. Shi, "Data-Driven Attack Detection and Identification
+for Cyber-Physical Systems under Sparse Sensor Attacks," */IEEE Transactions on Automatic Control/*, 2022.
+. *Y. Li*, Y. Yang, Z. Zhao, J. Zhou, D. Quevedo, "Deception Attacks on Remote Estimation
+with Disclosure and Disruption Resources," */IEEE Transactions on Automatic Control/*, 2022. (Full Paper)
+. Q. Zhang, K. Liu, A. M. H. Teixeira, *Y. Li*, S. Chai, Y. Xia, "An Online Kullback-Leibler
+Divergence-Based Stealthy Attack against Cyber-Physical Systems, " */IEEE Transactions on Automatic Control/*, 2022.
+. H. Liu, *Y. Li\**, Q. Han, T. Raissi, "Watermark-based Proactive Defense Strategy Design
+For Cyber-Physical Systems With Unknown-but-bounded Noises, " */IEEE Transactions on Automatic Control/*, 2022. (Full Paper)
+. N. Yang, J. Tang, Y. Wong, *Y. Li\**, L. Shi, "Linear Quadratic Control of Positive Systems: A
+Projection-Based Approach," */IEEE Transactions on Automatic Control/*, 2022.
+. *Y. Li*, Y. Yang, T. Chai, T. Chen, "Stochastic Detection against Deception Attacks in CPS:
+Performance Evaluation and Game-theoretic Analysis," */Automatica/*, 2022. (Regular Paper)
+. J. Fu, Y. Qi, N. Xing, *Y. Li*, "A New Switching Law for Event-Triggered Switched Systems
+under DoS Attacks," */Automatica/*, 2022. (Regular Paper)
+. Y. Wu, K. Ding, *Y. Li*, L. Shi, "Optimal Unbiased Linear Sensor Fusion over Multiple Lossy
+Channels with Collective Observability," */Automatica/*, 2021.
+. *Y. Li*, D. Shi, T. Chen, "Secure Analysis of Dynamic Networks under Pinning Attacks against Synchronization," */Automatica/*, 2020.
+. *Y. Li*, A. Mehr, T. Chen, "Multi-Sensor Transmission Power Control for Remote Estimation through a SINR-based Communication Channel," */Automatica/*, 2019.
+. *Y. Li*, J. Wu, T. Chen, "Transmit Power Control and Distributed State Estimation with Sensor Networks: A Bayesian Inference Approach," */Automatica/*, 2018.
+. *Y. Li*, D. Shi, T. Chen, "False Data Injection Attacks on Networked Control Systems: A Stackelberg-Game Analysis," */IEEE Transactions on Automatic Control/*, 2018.
+. K. Ding, *Y. Li\**, D. Quevedo, S. Dey, L. Shi, "A Multi-channel Transmission Schedule
+for Remote State Estimation under DoS Attacks," */Automatica/*, 2017.
+. *Y. Li*, F. Zhang, D. Quevedo, V. Lau, S. Dey, L. Shi, "Power Control of an Energy Harvesting Sensor for Remote State Estimation," */IEEE Transactions on Automatic Control/*, 2017.  (Full Paper)
+. *Y. Li*, L. Shi, P. Cheng, J. Chen, D. Quevedo, "Jamming Attacks on Remote State Estimation in Cyber-Physical Systems: A Game-Theoretic Approach," */IEEE Transactions on Automatic Control/*, 2015.
+. J. Wu, *Y. Li*, D. Quevedo, V. Lau, L. Shi, "Data-driven power control for state estimation:
+A Bayesian inference approach," */Automatica/*, 2015.
 
 
 

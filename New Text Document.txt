@@ -1,5 +1,5 @@
-e:
-cd E:\Dropbox\Research\Misc\Homepage\V5
+d:
+cd D:\Drop\Research\Misc\Homepage\V5
 python jemdoc.py index.jemdoc
 python jemdoc.py welcome.jemdoc
 python jemdoc.py bio.jemdoc
