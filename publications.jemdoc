@@ -8,6 +8,14 @@
 . *Y. Li*, L. Shi, P. Cheng, J. Chen and D. E. Quevedo, /A Game-theoretic Approach to Jamming Attacks on Remote State Estimation in Cyber-Physical Systems/, Cyber Security for Industrial Control Systems: From the Viewpoint of Close-loop (Cheng et al. (Ed.)), CRC Press, 2016.
 
 == Selected Journal Papers | 代表性论文 
+. N. Yang, J. Tang, *Y. Li\**, G. Shi, L. Shi, "Log-Barrier Search for Structural Linear Quadratic Regulators, " */IEEE Transactions on Automatic Control/*, 2024. 
+. H. Xu, Y. Yang, N. Yang, C. Tan, *Y. Li\**, "Generalized Optimal Attacks with Unparameterized Patterns on Remote Estimation: Myopic and Non-myopic Analysis, " */IEEE Transactions on Automatic Control/*, 2024. (Full Paper)
+. N. Yang, *Y. Li\**, T. Chen, L. Shi, "Sparsity Promoting Observer Design for Wireless Sensor-Estimator Networks, " */IEEE Transactions on Automatic Control/*, 2024. 
+. W. Xing, X. Zhao, *Y. Li*, L. Liu, "Denial-of-Service Attacks on Cyber-Physical-Systems Against Linear Quadratic Control: A Stackelberg-Game Analysis, " */IEEE Transactions on Automatic Control/*, 2024. 
+. C. Tan, J. Di, G. Gao, *Y. Li\**, W. Wong, "Exponential mean-square stabilization control for cyber-physical systems under random DoS attacks and transmission delay, " */IEEE Transactions on Automatic Control/*, 2024. (Full Paper)
+. Y. Chen, H. Zeng, *Y. Li\**, "Stability analysis of linear delayed systems based on an allowable delay set partitioning approach, " */Automatica/*, 2024.
+. C. Tan, Z. Zhang, H. Zhang, *Y. Li*, W. Wong, "Asymptotical Mean-square Stabilization of
+Networked Control Systems Operating over Multi-path Routing Networks, " */IEEE Transactions on Automatic Control/*, 2024.
 . Y. Yang, *Y. Li\**, Y. Shi, D. E. Quevedo, "The Vulnerability Analysis of Remote Estimation
 with Batch-Data Detectors against Integrity Attacks, " */IEEE Transactions on Automatic Control/*, 2023. (Full Paper)
 . H. Liu, Y. Zhang, *Y. Li*, B. Niu, "Proactive attack detection scheme based on watermarking
