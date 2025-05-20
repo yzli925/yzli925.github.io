@@ -8,50 +8,36 @@
 . *Y. Li*, L. Shi, P. Cheng, J. Chen and D. E. Quevedo, /A Game-theoretic Approach to Jamming Attacks on Remote State Estimation in Cyber-Physical Systems/, Cyber Security for Industrial Control Systems: From the Viewpoint of Close-loop (Cheng et al. (Ed.)), CRC Press, 2016.
 
 == Selected Journal Papers | 代表性论文 
-. N. Yang, J. Tang, *Y. Li\**, G. Shi, L. Shi, "Log-Barrier Search for Structural Linear Quadratic Regulators, " */IEEE Transactions on Automatic Control/*, 2024. 
-. H. Xu, Y. Yang, N. Yang, C. Tan, *Y. Li\**, "Generalized Optimal Attacks with Unparameterized Patterns on Remote Estimation: Myopic and Non-myopic Analysis, " */IEEE Transactions on Automatic Control/*, 2024. (Full Paper)
-. N. Yang, *Y. Li\**, T. Chen, L. Shi, "Sparsity Promoting Observer Design for Wireless Sensor-Estimator Networks, " */IEEE Transactions on Automatic Control/*, 2024. 
-. W. Xing, X. Zhao, *Y. Li*, L. Liu, "Denial-of-Service Attacks on Cyber-Physical-Systems Against Linear Quadratic Control: A Stackelberg-Game Analysis, " */IEEE Transactions on Automatic Control/*, 2024. 
-. C. Tan, J. Di, G. Gao, *Y. Li\**, W. Wong, "Exponential mean-square stabilization control for cyber-physical systems under random DoS attacks and transmission delay, " */IEEE Transactions on Automatic Control/*, 2024. (Full Paper)
-. Y. Chen, H. Zeng, *Y. Li\**, "Stability analysis of linear delayed systems based on an allowable delay set partitioning approach, " */Automatica/*, 2024.
-. C. Tan, Z. Zhang, H. Zhang, *Y. Li*, W. Wong, "Asymptotical Mean-square Stabilization of
-Networked Control Systems Operating over Multi-path Routing Networks, " */IEEE Transactions on Automatic Control/*, 2024.
-. Y. Yang, *Y. Li\**, Y. Shi, D. E. Quevedo, "The Vulnerability Analysis of Remote Estimation
-with Batch-Data Detectors against Integrity Attacks, " */IEEE Transactions on Automatic Control/*, 2023. (Full Paper)
-. H. Liu, Y. Zhang, *Y. Li*, B. Niu, "Proactive attack detection scheme based on watermarking
-and moving target defense, " */Automatica/*, 2023. (Regular Paper)
-. H. Xu, Y. Yang, J. Shang, J. Fu, *Y. Li\**, "Integrity Attacks on Remote Estimation with Spatial-
-Temporal Information Sources," */Automatica/*, 2023. (Regular Paper)
-. H. Liu, *Y. Li\**, Q. Han, T. Raissi, T. Chai, "Secure estimation, attack isolation and reconstruction
-based on zonotopic unknown input observer, " */IEEE Transactions on Automatic Control/*, 2023. (Full Paper)
-. *Y. Li*, R. Chen, T. Chai, "Spatiotemporal Learning-Based Stochastic MPC with Applications
-in Aero-engine Control," */Automatica/*, 2023.
-. Z. Zhao, Y. Xu, Z. Zhen, *Y. Li*, Y. Yang, Y. Shi, "Data-Driven Attack Detection and Identification
-for Cyber-Physical Systems under Sparse Sensor Attacks," */IEEE Transactions on Automatic Control/*, 2022.
-. *Y. Li*, Y. Yang, Z. Zhao, J. Zhou, D. Quevedo, "Deception Attacks on Remote Estimation
-with Disclosure and Disruption Resources," */IEEE Transactions on Automatic Control/*, 2022. (Full Paper)
-. Q. Zhang, K. Liu, A. M. H. Teixeira, *Y. Li*, S. Chai, Y. Xia, "An Online Kullback-Leibler
-Divergence-Based Stealthy Attack against Cyber-Physical Systems, " */IEEE Transactions on Automatic Control/*, 2022.
-. H. Liu, *Y. Li\**, Q. Han, T. Raissi, "Watermark-based Proactive Defense Strategy Design
-For Cyber-Physical Systems With Unknown-but-bounded Noises, " */IEEE Transactions on Automatic Control/*, 2022. (Full Paper)
-. N. Yang, J. Tang, Y. Wong, *Y. Li\**, L. Shi, "Linear Quadratic Control of Positive Systems: A
-Projection-Based Approach," */IEEE Transactions on Automatic Control/*, 2022.
-. *Y. Li*, Y. Yang, T. Chai, T. Chen, "Stochastic Detection against Deception Attacks in CPS:
-Performance Evaluation and Game-theoretic Analysis," */Automatica/*, 2022. (Regular Paper)
-. J. Fu, Y. Qi, N. Xing, *Y. Li*, "A New Switching Law for Event-Triggered Switched Systems
-under DoS Attacks," */Automatica/*, 2022. (Regular Paper)
-. Y. Wu, K. Ding, *Y. Li*, L. Shi, "Optimal Unbiased Linear Sensor Fusion over Multiple Lossy
-Channels with Collective Observability," */Automatica/*, 2021.
-. *Y. Li*, D. Shi, T. Chen, "Secure Analysis of Dynamic Networks under Pinning Attacks against Synchronization," */Automatica/*, 2020.
-. *Y. Li*, A. Mehr, T. Chen, "Multi-Sensor Transmission Power Control for Remote Estimation through a SINR-based Communication Channel," */Automatica/*, 2019.
-. *Y. Li*, J. Wu, T. Chen, "Transmit Power Control and Distributed State Estimation with Sensor Networks: A Bayesian Inference Approach," */Automatica/*, 2018.
-. *Y. Li*, D. Shi, T. Chen, "False Data Injection Attacks on Networked Control Systems: A Stackelberg-Game Analysis," */IEEE Transactions on Automatic Control/*, 2018.
-. K. Ding, *Y. Li\**, D. Quevedo, S. Dey, L. Shi, "A Multi-channel Transmission Schedule
-for Remote State Estimation under DoS Attacks," */Automatica/*, 2017.
-. *Y. Li*, F. Zhang, D. Quevedo, V. Lau, S. Dey, L. Shi, "Power Control of an Energy Harvesting Sensor for Remote State Estimation," */IEEE Transactions on Automatic Control/*, 2017.  (Full Paper)
-. *Y. Li*, L. Shi, P. Cheng, J. Chen, D. Quevedo, "Jamming Attacks on Remote State Estimation in Cyber-Physical Systems: A Game-Theoretic Approach," */IEEE Transactions on Automatic Control/*, 2015.
-. J. Wu, *Y. Li*, D. Quevedo, V. Lau, L. Shi, "Data-driven power control for state estimation:
-A Bayesian inference approach," */Automatica/*, 2015.
+. J. Shang, *Y. Li\**, T. Chen, "Stealthy Attacks on Sampled-Data Control and Encryption-Based Countermeasures", */IEEE Transactions on Automatic Control/*, 2025. (Full Paper)
+. Y. Yang, Z. Li, X. Zhao, *Y. Li\**, "Worst-case Performance of Kalman Filtering against Cyberattacks with True and Contaminated Information", */Automatica/*, 2025.
+. N. Yang, J. Tang, *Y. Li\**, L. Shi, "Sparse Optimization of H2 Controllers for LTI Systems: A Log-Barrier Method", */Automatica/*, 2025.
+. N. Yang, J. Tang, *Y. Li\**, G. Shi, L. Shi, "Log-Barrier Search for Structural Linear Quadratic Regulators", */IEEE Transactions on Automatic Control/*, 2025. 
+. H. Xu, Y. Yang, N. Yang, C. Tan, *Y. Li\**, "Generalized Optimal Attacks with Unparameterized Patterns on Remote Estimation: Myopic and Non-myopic Analysis", */IEEE Transactions on Automatic Control/*, 2024. (Full Paper)
+. N. Yang, *Y. Li\**, T. Chen, L. Shi, "Sparsity Promoting Observer Design for Wireless Sensor-Estimator Networks", */IEEE Transactions on Automatic Control/*, 2024. 
+. W. Xing, X. Zhao, *Y. Li*, L. Liu, "Denial-of-Service Attacks on Cyber-Physical-Systems Against Linear Quadratic Control: A Stackelberg-Game Analysis", */IEEE Transactions on Automatic Control/*, 2024. 
+. C. Tan, J. Di, G. Gao, *Y. Li\**, W. Wong, "Exponential mean-square stabilization control for cyber-physical systems under random DoS attacks and transmission delay", */IEEE Transactions on Automatic Control/*, 2024. (Full Paper)
+. Y. Chen, H. Zeng, *Y. Li\**, "Stability analysis of linear delayed systems based on an allowable delay set partitioning approach", */Automatica/*, 2024.
+. C. Tan, Z. Zhang, H. Zhang, *Y. Li*, W. Wong, "Asymptotical Mean-square Stabilization of Networked Control Systems Operating over Multi-path Routing Networks", */IEEE Transactions on Automatic Control/*, 2024.
+. Y. Yang, *Y. Li\**, Y. Shi, D. E. Quevedo, "The Vulnerability Analysis of Remote Estimation with Batch-Data Detectors against Integrity Attacks", */IEEE Transactions on Automatic Control/*, 2023. (Full Paper)
+. H. Liu, Y. Zhang, *Y. Li*, B. Niu, "Proactive attack detection scheme based on watermarking and moving target defense", */Automatica/*, 2023. (Regular Paper)
+. H. Xu, Y. Yang, J. Shang, J. Fu, *Y. Li\**, "Integrity Attacks on Remote Estimation with Spatial-Temporal Information Sources", */Automatica/*, 2023. (Regular Paper)
+. H. Liu, *Y. Li\**, Q. Han, T. Raissi, T. Chai, "Secure estimation, attack isolation and reconstruction based on zonotopic unknown input observer", */IEEE Transactions on Automatic Control/*, 2023. (Full Paper)
+. *Y. Li*, R. Chen, T. Chai, "Spatiotemporal Learning-Based Stochastic MPC with Applications in Aero-engine Control", */Automatica/*, 2023.
+. Z. Zhao, Y. Xu, Z. Zhen, *Y. Li*, Y. Yang, Y. Shi, "Data-Driven Attack Detection and Identification for Cyber-Physical Systems under Sparse Sensor Attacks", */IEEE Transactions on Automatic Control/*, 2022.
+. *Y. Li*, Y. Yang, Z. Zhao, J. Zhou, D. Quevedo, "Deception Attacks on Remote Estimation with Disclosure and Disruption Resources", */IEEE Transactions on Automatic Control/*, 2022. (Full Paper)
+. Q. Zhang, K. Liu, A. M. H. Teixeira, *Y. Li*, S. Chai, Y. Xia, "An Online Kullback-Leibler Divergence-Based Stealthy Attack against Cyber-Physical Systems", */IEEE Transactions on Automatic Control/*, 2022.
+. H. Liu, *Y. Li\**, Q. Han, T. Raissi, "Watermark-based Proactive Defense Strategy Design For Cyber-Physical Systems With Unknown-but-bounded Noises", */IEEE Transactions on Automatic Control/*, 2022. (Full Paper)
+. N. Yang, J. Tang, Y. Wong, *Y. Li\**, L. Shi, "Linear Quadratic Control of Positive Systems: A Projection-Based Approach", */IEEE Transactions on Automatic Control/*, 2022.
+. *Y. Li*, Y. Yang, T. Chai, T. Chen, "Stochastic Detection against Deception Attacks in CPS: Performance Evaluation and Game-theoretic Analysis", */Automatica/*, 2022. (Regular Paper)
+. J. Fu, Y. Qi, N. Xing, *Y. Li*, "A New Switching Law for Event-Triggered Switched Systems under DoS Attacks", */Automatica/*, 2022. (Regular Paper)
+. Y. Wu, K. Ding, *Y. Li*, L. Shi, "Optimal Unbiased Linear Sensor Fusion over Multiple Lossy Channels with Collective Observability", */Automatica/*, 2021.
+. *Y. Li*, D. Shi, T. Chen, "Secure Analysis of Dynamic Networks under Pinning Attacks against Synchronization", */Automatica/*, 2020.
+. *Y. Li*, A. Mehr, T. Chen, "Multi-Sensor Transmission Power Control for Remote Estimation through a SINR-based Communication Channel", */Automatica/*, 2019.
+. *Y. Li*, J. Wu, T. Chen, "Transmit Power Control and Distributed State Estimation with Sensor Networks: A Bayesian Inference Approach", */Automatica/*, 2018.
+. *Y. Li*, D. Shi, T. Chen, "False Data Injection Attacks on Networked Control Systems: A Stackelberg-Game Analysis", */IEEE Transactions on Automatic Control/*, 2018.
+. K. Ding, *Y. Li\**, D. Quevedo, S. Dey, L. Shi, "A Multi-channel Transmission Schedule for Remote State Estimation under DoS Attacks", */Automatica/*, 2017.
+. *Y. Li*, F. Zhang, D. Quevedo, V. Lau, S. Dey, L. Shi, "Power Control of an Energy Harvesting Sensor for Remote State Estimation",  */IEEE Transactions on Automatic Control/*, 2017.  (Full Paper)
+. *Y. Li*, L. Shi, P. Cheng, J. Chen, D. Quevedo, "Jamming Attacks on Remote State Estimation in Cyber-Physical Systems: A Game-Theoretic Approach", */IEEE Transactions on Automatic Control/*, 2015.
 
 
 
