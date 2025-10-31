@@ -1,7 +1,6 @@
-d:
-cd D:\Drop\Research\Misc\Homepage\V5
-python jemdoc.py index.jemdoc
-python jemdoc.py welcome.jemdoc
-python jemdoc.py bio.jemdoc
-python jemdoc.py publications.jemdoc
-python jemdoc.py group.jemdoc
+cd C:\Data\Nuts\Drop\Research\Misc\Homepage\V5
+python2 jemdoc.py index.jemdoc
+python2 jemdoc.py welcome.jemdoc
+python2 jemdoc.py bio.jemdoc
+python2 jemdoc.py publications.jemdoc
+python2 jemdoc.py group.jemdoc
